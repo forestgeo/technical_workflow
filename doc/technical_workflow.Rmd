@@ -127,7 +127,7 @@ GIS_screenshots = 2
 
 *Par. 3: Yet, collection of accurate census data is not trivial. (challenges include developing a good, efficient system for recording data and time lags in checking data)*
 
-*Par 4: To address these challenges, we have developed a workflow for data collection, quality control, and automated production and publication of results. THis is developed at ForestGEO sites, but applicable to any forest census. *
+*Par 4: To address these challenges, we have developed a workflow for data collection, quality control, and automated production and publication of results. This is developed at ForestGEO sites, but applicable to any forest census. *
 
 ![**Figure `r workflow_diagram`. Workflow Diagram.** (Blue arrows indicate iterative process that is completed until the data set is found to be error free.)](display/workflow_diagram.png)
 
