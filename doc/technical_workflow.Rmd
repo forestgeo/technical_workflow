@@ -78,7 +78,7 @@ Kristina J. Anderson-Teixeira^1,2^* ( Orcid ID : 0000-0001-8461-9713)
 
 Target journal: Methods in Ecology & Evolution
 Instructions for authors: https://besjournals.onlinelibrary.wiley.com/hub/journal/2041210X/author-guidelines
-article type: research article or practical tools
+article type: research article or practical tools. probably the former
 word count: (no more than 7000-8000 words for Standard Articles, 3000-4000 words for Applications and Practical Tools)
 
 Research article:  should have a maximum of 7000-8000 words (including tables/figure captions and references list) and describe new methods and how they may be used. We place emphasis on methods that are applicable as broadly as possible. Papers describing methods that apply to one species or system are unlikely to meet these criteria, unless authors are able to show that their methods can be generalised. Structure: see Manuscript specifications below.
@@ -94,7 +94,7 @@ Practical Tools: Short (no more than 3000-4000 words total) descriptions of new 
 ## example = 1 
 
 #Figures
-schematic = 1
+workflow_diagram = 1
 
 ```
 
@@ -128,8 +128,7 @@ schematic = 1
 
 *Par 4: To address these challenges, we have developed a workflow for data collection, quality control, and automated production and publication of results. THis is developed at ForestGEO sites, but applicable to any forest census. *
 
-
-**Figure: workflow diagram**
+![**Figure `r workflow_diagram`. Workflow Diagram.** (Blue arrows indicate iterative process that is completed until the data set is found to be error free.)](display/workflow_diagram.png)
 
 # Materials and Methods 
 <!--Include sufficient details for the work to be repeated. Where specific equipment and materials are named, the manufacturer’s details (name, city and country) should be given so that readers can trace specifications by contacting the manufacturer. Where commercially available software has been used, details of the supplier should be given in brackets or the reference given in full in the reference list. Do not describe or refer to commonplace statistical tests in this section but allude to them briefly in Results.-->
@@ -155,7 +154,8 @@ Example: Amacayacu
 
 At Amacayacu, paper records were collected in the [YEAR] census. 
 Data were digitized (entered into spreadsheets) every weekend.
-Here, we analyzed digital records as collected in the field (no corrections applied).
+Here, to provide an example of how this system can work with paper data collection, we analyzed digital records as collected in the field (no corrections applied).
+
 
 ## Step 2: Automated Data Processing via GitHub Actions
 ### Data QA/QC
