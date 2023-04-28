@@ -2,3 +2,5 @@
 doc/manuscript/display/.DS_Store
 doc/manuscript/.DS_Store
 .DS_Store
+*.bkp
+*.dtmp
