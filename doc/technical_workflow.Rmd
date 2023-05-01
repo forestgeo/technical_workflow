@@ -127,13 +127,15 @@ GIS_screenshots = 2
 
 *Par. 3: Yet, collection of accurate census data is not trivial. (challenges include developing a good, efficient system for recording data and time lags in checking data)*
 
-*Par 4: To address these challenges, we have developed a workflow for data collection, quality control, and automated production and publication of results. This is developed at ForestGEO sites, but applicable to any forest census. *
+*Par 4: To address these challenges, we have developed a workflow for data collection, quality control, and automated production and publication of results. This is developed at ForestGEO sites [@anderson-teixeira_ctfsforestgeo_2015; @davies_forestgeo_2021], but applicable to any forest census. *
 
 ![**Figure `r workflow_diagram`. Workflow Diagram.** (Blue arrows indicate iterative process that is completed until the data set is found to be error free.)](display/workflow_diagram.png)
 
 # Materials and Methods 
 <!--Include sufficient details for the work to be repeated. Where specific equipment and materials are named, the manufacturer’s details (name, city and country) should be given so that readers can trace specifications by contacting the manufacturer. Where commercially available software has been used, details of the supplier should be given in brackets or the reference given in full in the reference list. Do not describe or refer to commonplace statistical tests in this section but allude to them briefly in Results.-->
 
+We prototyped the system described here-- either in full or in part -- at **##** ForestGEO sites representative of a range of conditions under which data are collected across forest research sites.
+*(describe all sites, perhaps include a table*)
 
 ## Step 1: Production of Digital Data Records from Field Census
 
@@ -143,12 +145,12 @@ Here, we applied three different methods for censuses at ForestGEO plots.
 ### ArcGIS App
 Examples: BCI, SCBI 
 
-**Figure `r GIS_screenshots`: screenshots of app, including examples from both BCI and SCBI**
+*Figure `r GIS_screenshots`: screenshots of app, including examples from both BCI and SCBI*
 
 ### Fast Field Forms App
 Examples (potential): Wabikon, Tyson, and Lilly Dickey (2022)
 
-**Figure?: screenshots of app**
+*Figure?: screenshots of app*
 
 ### Paper Records 
 Example: Amacayacu
@@ -190,6 +192,8 @@ While this process must be completed in order to quantify species richness, stem
 # Results 
 <!--State the results and draw attention in the text to important details shown in tables and figures.-->
 ## Error Rates and Detection
+
+*Table #?. For each site:  census pace, initial data error and warning rates (perhaps broken into categories),... *
 
 ## Biological Results
 
