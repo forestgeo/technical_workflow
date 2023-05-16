@@ -42,9 +42,11 @@ Caroline Troy
 
 Luca Morreale
 
-Albert Kim?
+Albert Kim
 
 Lukas Magee
+
+Amy Wolf
 
 Daniel Zuleta
 
@@ -161,6 +163,9 @@ Here, to provide an example of how this system can work with paper data collecti
 
 
 ## Step 2: Automated Data Processing via GitHub Actions
+
+*(GitHub is excellent for scientific data management, including automated processing)* [@braga_not_2023; @kim_implementing_2022]
+
 ### Data QA/QC
 ### Biological Results
 Generate maps & .csv files for each of the following (by quadrat, as soon as each quadrat is completed and found to be error-free):
