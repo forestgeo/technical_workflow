@@ -148,7 +148,7 @@ Here, we applied three different methods for censuses at ForestGEO plots.
 Examples: BCI, SCBI 
 
 <!--INTERNS: describe ArcGIS app, explain how used in the field -->
-
+ArcGIS Field Maps saves time both with navigation and data entry. After downloading an offline area of the map, all the trees are symbolized as dots on the map falling within labeled quadrats. 
 *Figure `r GIS_screenshots`: screenshots of app, including examples from both BCI and SCBI*
 
 ### Fast Field Forms App
