@@ -147,6 +147,8 @@ Here, we applied three different methods for censuses at ForestGEO plots.
 ### ArcGIS App
 Examples: BCI, SCBI 
 
+<!--INTERNS: describe ArcGIS app, explain how used in the field -->
+
 *Figure `r GIS_screenshots`: screenshots of app, including examples from both BCI and SCBI*
 
 ### Fast Field Forms App
@@ -164,9 +166,13 @@ Here, to provide an example of how this system can work with paper data collecti
 
 ## Step 2: Automated Data Processing via GitHub Actions
 
+<!--INTERNS: draft brief text on how GitHub is useful (<100 words). See the references listed below  -->
 *(GitHub is excellent for scientific data management, including automated processing)* [@braga_not_2023; @kim_implementing_2022]
 
 ### Data QA/QC
+
+<!--INTERNS: describe QA/QC system in 1-2 paragraphs, including a brief description of how it works (cite Kim et al for more details) and what checks it does -->
+
 ### Biological Results
 Generate maps & .csv files for each of the following (by quadrat, as soon as each quadrat is completed and found to be error-free):
 
@@ -184,7 +190,7 @@ Generate maps & .csv files for each of the following (by quadrat, as soon as eac
 - ∆ species richness
 
 ### Results Dashboard
-*(Luca will tackle this. We'll use GitHub pages.)*
+<!--Luca will tackle this. We'll use GitHub pages.-->
 
 
 ### Step 3: Finalizing Data with Species ID of Recruits
