@@ -148,7 +148,9 @@ Here, we applied three different methods for censuses at ForestGEO plots.
 ### ArcGIS App
 We used an ArcGIS app on iPads (Apple) for censuses of the BCI plot (2022-23) and the SCBI plot (2023).
 <!--Description of app, how programmed: get this from David, Jess -->
-
+The app was populated with data from the previous census.
+Fillable fields were created for all variables required as part of the ForestGEO census.
+The app was programmed so that entries were restricted to allowed values and so that entry of suspicious DBH measurements would generate a warning.
 
 <!--INTERNS: describe explain how used in the field -->
 After downloading an offline area of the map, all the trees are symbolized as dots on the map falling within labeled quadrats. 
@@ -159,7 +161,7 @@ After downloading an offline area of the map, all the trees are symbolized as do
 
 
 ### Fast Field Forms App
-Examples (potential): Wabikon, Tyson, and Lilly Dickey (2022)
+We used an ArcGIS app on iPads (Apple) for censuses of the ForestGEO plots at Lilly Dickey (2022), Wabikon (2023), and Tyson (2023).
 
 *Figure?: screenshots of app*
 
