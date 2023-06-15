@@ -146,10 +146,12 @@ Data were collected via a variety of mechanisms, ultimately leading to digital d
 Here, we applied three different methods for censuses at ForestGEO plots.
 
 ### ArcGIS App
-Examples: BCI, SCBI 
+We used an ArcGIS app on iPads (Apple) for censuses of the BCI plot (2022-23) and the SCBI plot (2023).
+<!--Description of app, how programmed: get this from David, Jess -->
 
-<!--INTERNS: describe ArcGIS app, explain how used in the field -->
-ArcGIS Field Maps saves time both with navigation and data entry. After downloading an offline area of the map, all the trees are symbolized as dots on the map falling within labeled quadrats. 
+
+<!--INTERNS: describe explain how used in the field -->
+After downloading an offline area of the map, all the trees are symbolized as dots on the map falling within labeled quadrats. 
 
 ![**Figure `r SCBI_GIS_screenshots`. Screenshots from the ArcGIS app on iPads taken during the 2023 census of the Smithsonian Conservation Biology Institute ForestGEO plot:** (a) map zoomed into four quadrats (20 x 20 m) showing all trees in the previous (2018) census and their 2023 census status (green = complete, yellow = in progress, red = not started); (b) data form showing information about the previously censused tree selected on the map (turquoise outline); (c) data form for adding a new recruit (grey field editable) at a location selected on the map (+ symbol); (d) warning ("DBH check", bottom field) generated after a suspicious measurement of diameter at breast height (DBH) was entered in the editable "dbh 2023" field for the tree shown in panel (b).](display/SCBIscreenshots.png)
 
@@ -207,6 +209,10 @@ While this process must be completed in order to quantify species richness, stem
 
 # Results 
 <!--State the results and draw attention in the text to important details shown in tables and figures.-->
+
+## Experiences with data collection methods
+ArcGIS Field Maps saves time both with navigation and data entry.
+
 ## Error Rates and Detection
 
 *Table #?. For each site:  census pace, initial data error and warning rates (perhaps broken into categories),... *
